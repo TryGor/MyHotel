@@ -1,0 +1,17 @@
+C:\Projects\MyHotel\MyHotelMain\MyHotelMain\bin\Debug\MyHotelMain.exe.config
+C:\Projects\MyHotel\MyHotelMain\MyHotelMain\bin\Debug\MyHotelMain.exe
+C:\Projects\MyHotel\MyHotelMain\MyHotelMain\bin\Debug\MyHotelMain.pdb
+C:\Projects\MyHotel\MyHotelMain\MyHotelMain\obj\Debug\MyHotelMain.csprojResolveAssemblyReference.cache
+C:\Projects\MyHotel\MyHotelMain\MyHotelMain\obj\Debug\LogOn.g.cs
+C:\Projects\MyHotel\MyHotelMain\MyHotelMain\obj\Debug\MainWindow.g.cs
+C:\Projects\MyHotel\MyHotelMain\MyHotelMain\obj\Debug\App.g.cs
+C:\Projects\MyHotel\MyHotelMain\MyHotelMain\obj\Debug\MyHotelMain_MarkupCompile.cache
+C:\Projects\MyHotel\MyHotelMain\MyHotelMain\obj\Debug\MyHotelMain_MarkupCompile.lref
+C:\Projects\MyHotel\MyHotelMain\MyHotelMain\obj\Debug\MainWindow.baml
+C:\Projects\MyHotel\MyHotelMain\MyHotelMain\obj\Debug\LogOn.baml
+C:\Projects\MyHotel\MyHotelMain\MyHotelMain\obj\Debug\MyHotelMain.g.resources
+C:\Projects\MyHotel\MyHotelMain\MyHotelMain\obj\Debug\MyHotelMain.Properties.Resources.resources
+C:\Projects\MyHotel\MyHotelMain\MyHotelMain\obj\Debug\MyHotelMain.csproj.GenerateResource.cache
+C:\Projects\MyHotel\MyHotelMain\MyHotelMain\obj\Debug\MyHotelMain.csproj.CoreCompileInputs.cache
+C:\Projects\MyHotel\MyHotelMain\MyHotelMain\obj\Debug\MyHotelMain.exe
+C:\Projects\MyHotel\MyHotelMain\MyHotelMain\obj\Debug\MyHotelMain.pdb
